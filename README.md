@@ -1,0 +1,1 @@
+Built an end-to-end NLP pipeline to classify social media posts into multiple categories using TF-IDF vectorization and machine learning models including Logistic Regression, SVM, and Naive Bayes, with comprehensive performance evaluation.
